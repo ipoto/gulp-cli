@@ -1,0 +1,22 @@
+{
+  "name": "gulp-cli",
+  "version": "1.0.0",
+  "description": "a gulp config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ipoto/gulp-cli.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "ipoto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ipoto/gulp-cli/issues"
+  },
+  "homepage": "https://github.com/ipoto/gulp-cli#readme"
+}
